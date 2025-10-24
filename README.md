@@ -2,16 +2,16 @@
 
 ![Rapid Silicone Mold Example](./images/fin_ray_use_case.jpg)
 
-This project demonstrates a rapid prototyping workflow for creating silicone molds using **digital fabrication** and **SLA 3D printing**. The process allows for fast and precise mold creation suitable for small-scale or experimental manufacturing.
+This project showcases a rapid digital fabrication workflow for producing silicone molds using SLA 3D printing and computer-aided design. The workflow demonstrates how high-resolution photopolymer printing can be combined with silicone casting to enable fast, accurate, and repeatable mold production without the need for traditional tooling. By starting from a CAD model and applying streamlined design principles—such as parting-line planning, draft angle integration, and cavity generation—the process allows users to transition from digital design to physical mold within hours. The use of Anycubic ABS-Like Pro 2 resin provides strong, dimensionally stable masters that capture fine geometric details while maintaining compatibility with standard RTV silicones. This method is ideal for small-scale manufacturing, product prototyping, and research applications where rapid iteration, material testing, or educational demonstration is required. The repository includes practical design guidelines, safety precautions, and recommended print and curing parameters, forming a reproducible framework for engineers, makers, and educators exploring the intersection of additive manufacturing and mold-based fabrication.
 
 ---
 
 ## 🧱 3D Modeling Workflow
 
-1. **Create or import** the target 3D model.  
-2. **Create a solid block** that completely encloses the target model.  
-3. **Use the `COMBINE` tool** with the **Cut** operation to subtract the target model from the block, forming a **negative mold**.  
-4. **3D print** the resulting negative mold.
+1. **Create or import** the desired 3D model into your CAD workspace**.  
+2. **Generate a solid block that fully encloses the model, ensuring sufficient wall thickness around all sides**.  
+3. **Apply the Combine tool with the Cut operation to subtract the model from the block, creating a negative mold cavity**.
+4. Export and 3D print the resulting negative mold using your SLA printer**.
 🎥 **Reference Video:** [Rapid Mold 3D Modeling Workflow](https://youtu.be/Q1Thdrt40MA?si=13iyadsBUq4JawJu)
 ---
 
