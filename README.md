@@ -98,9 +98,6 @@ If silicone remains **tacky or incompletely cured**:
 ---
 
 ## 📚 Reference
-> Venzac, B., Deng, S., Mahmoud, Z., Lenferink, A., Costa, A., Bray, F., Otto, C., Rolando, C., & Le Gac, S. (2021).  
-> *PDMS Curing Inhibition on 3D-Printed Molds: Why? Also, How to Avoid It?*  
-> **Analytical Chemistry, 93**(19), 7180–7187.  
-> [https://doi.org/10.1021/acs.analchem.0c04944](https://doi.org/10.1021/acs.analchem.0c04944)
+> Venzac, B., Deng, S., Mahmoud, Z., Lenferink, A., Costa, A., Bray, F., Otto, C., Rolando, C., & Le Gac, S. (2021). *PDMS Curing Inhibition on 3D-Printed Molds: Why? Also, How to Avoid It?* **Analytical Chemistry, 93**(19), 7180–7187. [https://doi.org/10.1021/acs.analchem.0c04944](https://doi.org/10.1021/acs.analchem.0c04944)
 
 ---
