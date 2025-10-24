@@ -12,12 +12,13 @@ This project presents a **rapid digital fabrication workflow** for creating sili
 1. **Create or import** the desired 3D model into your CAD workspace.  
 2. **Generate a solid block** that fully encloses the model, ensuring sufficient wall thickness on all sides.  
 3. **Use the `Combine` tool** with the **Cut** operation to subtract the model from the block, forming a **negative mold cavity**.  
-4. **Export and 3D print** the resulting mold using your SLA printer.  
+4. **Export and 3D print** the resulting mold using your SLA printer.
+🎥 **Reference Video:** [Rapid Mold 3D Modeling Workflow](https://youtu.be/Q1Thdrt40MA?si=13iyadsBUq4JawJu)
 
 ## 🧴 Silicone  
 The silicone used here is **RTV platinum-cured**, which is **highly sensitive** to contaminants such as **uncured resin, sulfur, amines, and tin-based compounds**.  
 Proper cleaning and post-curing of the SLA mold are essential to prevent curing inhibition.
-🎥 **Reference Video:** [Rapid Mold 3D Modeling Workflow](https://youtu.be/Q1Thdrt40MA?si=13iyadsBUq4JawJu)
+
 ---
 
 ## 🧰 Materials Used
@@ -25,6 +26,7 @@ Proper cleaning and post-curing of the SLA mold are essential to prevent curing 
 |------|-----------|-------------|
 | **Mold Master** | [Anycubic ABS-Like Resin Pro 2 (Clear)](https://store.anycubic.com/products/abs-like-resin-pro-2?variant=43847439351970) | High-strength, clear SLA resin with ABS-like mechanical properties. Excellent for durable mold masters, but may inhibit silicone if not fully cured. |
 | **Casting Silicone** | [RungArt Silicone 40AB (Platinum-Cure)](https://www.resinrungart.com/shop/1402225205854-yaangchiliokhn-ra-40ab-chud-1-kk-110012) | Room-temperature, platinum-cured RTV silicone (Shore A 40) — ideal for flexible, high-detail molds. |
+
 ---
 
 ## 🧪 Material Compatibility Notes
