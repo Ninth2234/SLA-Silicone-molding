@@ -1,6 +1,6 @@
-# 🧩 Rapid Mold with Digital Fabrication
+# 🧩 Rapid Silicone Mold with Digital Fabrication
 
-![Rapid Mold Example](./images/fin_ray_use_case.jpg)
+![Rapid Silicone Mold Example](./images/fin_ray_use_case.jpg)
 
 This project demonstrates a rapid prototyping workflow for creating silicone molds using **digital fabrication** and **SLA 3D printing**. The process allows for fast and precise mold creation suitable for small-scale or experimental manufacturing.
 
