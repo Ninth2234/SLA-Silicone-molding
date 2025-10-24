@@ -29,9 +29,7 @@ This project presents a **rapid digital fabrication workflow** for creating sili
 SLA printing provides **high resolution** and **smooth surfaces**, ideal for mold masters.  
 However, **uncured resin residue** can **inhibit platinum-cure silicones**, causing tacky or uncured surfaces.  
 Ensure the print is **fully cleaned, UV-cured, and heat-treated** before casting.
-### 🧴 Silicone  
-The silicone used here is **RTV platinum-cured**, which is **highly sensitive** to contaminants such as **uncured resin, sulfur, amines, and tin-based compounds**.  
-Proper cleaning and post-curing of the SLA mold are essential to prevent curing inhibition.
+
 ---
 
 ## 🔧 Post-Processing Workflow
