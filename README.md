@@ -13,7 +13,9 @@ This project presents a **rapid digital fabrication workflow** for creating sili
 2. **Generate a solid block** that fully encloses the model, ensuring sufficient wall thickness on all sides.  
 3. **Use the `Combine` tool** with the **Cut** operation to subtract the model from the block, forming a **negative mold cavity**.  
 4. **Export and 3D print** the resulting mold using your SLA printer.  
-
+## 🧴 Silicone  
+The silicone used here is **RTV platinum-cured**, which is **highly sensitive** to contaminants such as **uncured resin, sulfur, amines, and tin-based compounds**.  
+Proper cleaning and post-curing of the SLA mold are essential to prevent curing inhibition.
 🎥 **Reference Video:** [Rapid Mold 3D Modeling Workflow](https://youtu.be/Q1Thdrt40MA?si=13iyadsBUq4JawJu)
 ---
 
